@@ -1,0 +1,3 @@
+O arquivo haarcascade_frontalface_default deve estar na mesma pasta que detector_rosto.py
+Ter pelo menos uma webcam
+executar o comando pip install opencv-python
